@@ -13,12 +13,12 @@ return [
     |
     | Current available keys are: console-command, controller, event, job,
     | listener, mail, middleware, model, notification, policy, provider,
-    | request, seeder, test, viewcomposer.
+    | request, seeder, test, view-composer.
     */
 
     'namespaces' => [
         // 'model' => '\Models',
-        // 'viewcomposer' => '\ViewComposers',
+        // 'view-composer' => '\ViewComposers',
     ],
 
 ];
